@@ -1,0 +1,112 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1426" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="2SFnDqsXGAYVPLP1azwY-0" value="发现质量问题（岗位自审/质控检测/采购方反馈）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="315" y="490" width="244" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="2SFnDqsXGAYVPLP1azwY-1" value="s1=&gt;operation: 记录问题信息（问题描述、位置、发现阶段、责任人）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="312" y="624" width="252" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="2SFnDqsXGAYVPLP1azwY-2" value="q1=&gt;decision: 问题等级？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="343" y="758" width="188" height="188" as="geometry" />
+        </mxCell>
+        <mxCell id="2SFnDqsXGAYVPLP1azwY-3" value="s2=&gt;operation: 一般质量问题：岗位责任人制定整改方案，24小时内完成整改" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="1028" width="253" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="2SFnDqsXGAYVPLP1azwY-4" value="s4=&gt;operation: 整改完成后，提交质控组复检" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="312" y="1189" width="252" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="2SFnDqsXGAYVPLP1azwY-5" value="s3=&gt;operation: 重大质量问题：质控组牵头，组织专题会议，分析原因，制定整改方案（明确整改时限/责任人/措施）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="463" y="1020" width="252" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="2SFnDqsXGAYVPLP1azwY-6" value="q2=&gt;decision: 复检是否通过？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="216" y="1323" width="188" height="188" as="geometry" />
+        </mxCell>
+        <mxCell id="2SFnDqsXGAYVPLP1azwY-7" value="s6=&gt;operation: 纳入质量档案，进行问题总结与分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="165" y="1584" width="252" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="2SFnDqsXGAYVPLP1azwY-8" value="e=&gt;end: 质量问题处理完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="197" y="1719" width="188" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="2SFnDqsXGAYVPLP1azwY-9" value="s5=&gt;operation: 重新整改，直至复检通过" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="467" y="1593" width="236" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="2SFnDqsXGAYVPLP1azwY-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2SFnDqsXGAYVPLP1azwY-0" target="2SFnDqsXGAYVPLP1azwY-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2SFnDqsXGAYVPLP1azwY-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2SFnDqsXGAYVPLP1azwY-1" target="2SFnDqsXGAYVPLP1azwY-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2SFnDqsXGAYVPLP1azwY-12" value="一般" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.94;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2SFnDqsXGAYVPLP1azwY-2" target="2SFnDqsXGAYVPLP1azwY-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="286" y="983" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2SFnDqsXGAYVPLP1azwY-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.12;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2SFnDqsXGAYVPLP1azwY-3" target="2SFnDqsXGAYVPLP1azwY-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="286" y="1164" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2SFnDqsXGAYVPLP1azwY-14" value="重大" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.94;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2SFnDqsXGAYVPLP1azwY-2" target="2SFnDqsXGAYVPLP1azwY-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="589" y="983" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2SFnDqsXGAYVPLP1azwY-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.87;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2SFnDqsXGAYVPLP1azwY-5" target="2SFnDqsXGAYVPLP1azwY-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="589" y="1164" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2SFnDqsXGAYVPLP1azwY-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2SFnDqsXGAYVPLP1azwY-4" target="2SFnDqsXGAYVPLP1azwY-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="311" y="1298" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2SFnDqsXGAYVPLP1azwY-17" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.43;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2SFnDqsXGAYVPLP1azwY-6" target="2SFnDqsXGAYVPLP1azwY-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="291" y="1548" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2SFnDqsXGAYVPLP1azwY-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2SFnDqsXGAYVPLP1azwY-7" target="2SFnDqsXGAYVPLP1azwY-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2SFnDqsXGAYVPLP1azwY-19" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.27;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2SFnDqsXGAYVPLP1azwY-6" target="2SFnDqsXGAYVPLP1azwY-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="458" y="1548" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2SFnDqsXGAYVPLP1azwY-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.53;exitY=0;entryX=0.9;entryY=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2SFnDqsXGAYVPLP1azwY-9" target="2SFnDqsXGAYVPLP1azwY-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="1548" />
+              <mxPoint x="600" y="1298" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
