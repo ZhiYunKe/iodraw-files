@@ -7,7 +7,7 @@
         <mxCell id="2SFnDqsXGAYVPLP1azwY-0" value="发现质量问题（岗位自审/质控检测/采购方反馈）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="315" y="490" width="244" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="2SFnDqsXGAYVPLP1azwY-1" value="s1=&gt;operation: 记录问题信息（问题描述、位置、发现阶段、责任人）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2SFnDqsXGAYVPLP1azwY-1" value="记录问题信息（问题描述、位置、发现阶段、责任人）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="312" y="624" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="2SFnDqsXGAYVPLP1azwY-2" value="q1=&gt;decision: 问题等级？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
