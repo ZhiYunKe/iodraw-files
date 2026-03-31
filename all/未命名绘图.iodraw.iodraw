@@ -22,16 +22,16 @@
         <mxCell id="2SFnDqsXGAYVPLP1azwY-5" value="重大质量问题：质控组牵头，组织专题会议，分析原因，制定整改方案（明确整改时限/责任人/措施）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="463" y="1020" width="252" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="2SFnDqsXGAYVPLP1azwY-6" value="q2=&gt;decision: 复检是否通过？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2SFnDqsXGAYVPLP1azwY-6" value="复检是否通过？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="216" y="1323" width="188" height="188" as="geometry" />
         </mxCell>
-        <mxCell id="2SFnDqsXGAYVPLP1azwY-7" value="s6=&gt;operation: 纳入质量档案，进行问题总结与分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2SFnDqsXGAYVPLP1azwY-7" value="纳入质量档案，进行问题总结与分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="165" y="1584" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="2SFnDqsXGAYVPLP1azwY-8" value="e=&gt;end: 质量问题处理完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="197" y="1719" width="188" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="2SFnDqsXGAYVPLP1azwY-9" value="s5=&gt;operation: 重新整改，直至复检通过" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2SFnDqsXGAYVPLP1azwY-9" value="重新整改，直至复检通过" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="467" y="1593" width="236" height="67" as="geometry" />
         </mxCell>
         <mxCell id="2SFnDqsXGAYVPLP1azwY-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2SFnDqsXGAYVPLP1azwY-0" target="2SFnDqsXGAYVPLP1azwY-1">
