@@ -10,16 +10,16 @@
         <mxCell id="2SFnDqsXGAYVPLP1azwY-1" value="记录问题信息（问题描述、位置、发现阶段、责任人）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="312" y="624" width="252" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="2SFnDqsXGAYVPLP1azwY-2" value="q1=&gt;decision: 问题等级？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2SFnDqsXGAYVPLP1azwY-2" value="问题等级？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="343" y="758" width="188" height="188" as="geometry" />
         </mxCell>
-        <mxCell id="2SFnDqsXGAYVPLP1azwY-3" value="s2=&gt;operation: 一般质量问题：岗位责任人制定整改方案，24小时内完成整改" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2SFnDqsXGAYVPLP1azwY-3" value="一般质量问题：岗位责任人制定整改方案，24小时内完成整改" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="1028" width="253" height="102" as="geometry" />
         </mxCell>
         <mxCell id="2SFnDqsXGAYVPLP1azwY-4" value="s4=&gt;operation: 整改完成后，提交质控组复检" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="312" y="1189" width="252" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="2SFnDqsXGAYVPLP1azwY-5" value="s3=&gt;operation: 重大质量问题：质控组牵头，组织专题会议，分析原因，制定整改方案（明确整改时限/责任人/措施）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="2SFnDqsXGAYVPLP1azwY-5" value="重大质量问题：质控组牵头，组织专题会议，分析原因，制定整改方案（明确整改时限/责任人/措施）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="463" y="1020" width="252" height="119" as="geometry" />
         </mxCell>
         <mxCell id="2SFnDqsXGAYVPLP1azwY-6" value="q2=&gt;decision: 复检是否通过？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
